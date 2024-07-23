@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      header: 'صفحه شخصی من',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -29,13 +29,13 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'نمونه کارهای من',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'این سایت برای نمایش اسلاید ها مفید است',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -52,31 +52,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Sahand Sarhangi',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'sahand-sarhangi',
+    twitter: 'SahandSarhangi',
+    mastodon: 'sahandsarhangi@librem.one',
     researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
+    facebook: 'SahandSarhangi',
+    instagram: 'sahand.sarhangi',
+    reddit: 'Sahand_Sarhangi',
+    threads: 'sahand.sarhangi',
+    youtube: 'SahandSarhangi', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: 'sahandsarhangi',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    telegram: 'SahandSarhangi',
+    website: 'sahandsarhangi.whi.ir',
+    phone: '+98 9140298388',
+    email: 'sahand.sarhangi@yahoo.com',
   },
   resume: {
     fileUrl:
