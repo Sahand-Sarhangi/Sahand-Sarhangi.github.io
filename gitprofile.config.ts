@@ -97,9 +97,9 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'نمونه سایت',
-      conferenceName: '',
-      journalName: 'HTML5 Development Benefits, Features and Cost For 2017',
+      title: 'نمونه سایت آموزشی',
+      conferenceName: 'HTML5 Development Benefits, Features and Cost For 2017',
+      journalName: '',
       authors: '',
       link: 'https://sahand-sarhangi.github.io/html5/',
       description:
@@ -112,7 +112,7 @@ const CONFIG = {
       authors: '',
       link: 'https://sahand-sarhangi.github.io/pooshnie/',
       description:
-      '.فروشگاه کفش و لباس پوشنه' ,
+      'فروشگاه کفش و لباس پوشنه',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
