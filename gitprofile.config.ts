@@ -29,25 +29,8 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'نمونه کارهای من',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: '',
-          description:
-            'این سایت برای نمایش اسلاید ها مفید است',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
       ],
     },
   },
@@ -118,7 +101,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'HTML5 Development Benefits, Features and Cost For 2017',
       authors: '',
-      link: 'https://example.com',
+      link: 'https://sahand-sarhangi.github.io/html5/',
       description:
         'ارائه ای درمورد ویژگی های جدید اچ تی ام ال پنج',
     },
@@ -127,9 +110,9 @@ const CONFIG = {
       conferenceName: 'Pooshnie',
       journalName: '',
       authors: '',
-      link: 'https://example.com',
+      link: 'https://sahand-sarhangi.github.io/pooshnie/',
       description:
-      '.فروشگاه کفش و لباس پوشنه.' ,
+      '.فروشگاه کفش و لباس پوشنه' ,
     },
   ],
   // Display articles from your medium or dev account. (Optional)
