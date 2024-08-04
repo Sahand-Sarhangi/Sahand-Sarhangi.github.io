@@ -44,7 +44,7 @@ const CONFIG = {
     twitter: 'SahandSarhangi',
     mastodon: 'sahandsarhangi@librem.one',
     researchGate: '',
-    facebook: 'SahandSarhangi',
+    facebook: 'Sahand.Sarhangi.2',
     instagram: 'sahand.sarhangi',
     reddit: 'Sahand_Sarhangi',
     threads: 'sahand.sarhangi',
